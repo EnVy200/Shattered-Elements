@@ -1,0 +1,4 @@
+displayName = True Soul
+author = EnVy
+version = 0.25.4
+modDependencies = calamityMod

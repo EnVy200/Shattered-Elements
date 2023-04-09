@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1sGUYnb8xDlEYNxuXG0USf4s4vmSoZRL8ZzEF5HtllY35J2+xQIJXS5j+QZltg/JHiD62lrFyN8bvu7au6Gf1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matthew\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TrueSoul\\TrueSoul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matthew\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
